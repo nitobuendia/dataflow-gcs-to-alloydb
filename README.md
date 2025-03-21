@@ -8,4 +8,4 @@ Refer to detailed documentation in [docs/index.md](/docs/index.md).
 
 *Disclaimer: This a copy/fork for display of work purposes. If you are
 interested in using and/or contributing to this project, refer to the
-[original source](https://github.com/GoogleCloudPlatform/cloud-solutions/tree/main/projects/dataflow-gcs-to-alloydb).
+[original source](https://github.com/GoogleCloudPlatform/cloud-solutions/tree/main/projects/dataflow-gcs-to-alloydb)*.
